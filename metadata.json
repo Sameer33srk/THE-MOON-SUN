@@ -1,0 +1,7 @@
+{
+  "name": "THE MOON & OCEAN (M&O LAW OFFICE)",
+  "description": "Premium legal intelligence platform by M.SAMEER Advocate. Real-time news, scholarly articles, judiciary academy resources, landmark judgments, and Bare Acts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
